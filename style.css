@@ -1,0 +1,21 @@
+body {
+    background-color: palegreen;
+}
+
+img {
+    width: 100%;
+}
+
+.card {
+    background-color: white;
+    height: 500px;
+    width: 18%;
+    text-align: center;
+}
+
+.button {
+    background-color: palegreen;
+    border-radius: 15px;
+    width: 150px;
+    display: inline-block;
+}
