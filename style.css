@@ -1,5 +1,6 @@
 body {
     background-color: palegreen;
+    text-align: center;
 }
 
 img {
@@ -11,6 +12,7 @@ img {
     height: 500px;
     width: 18%;
     text-align: center;
+    display: inline-block;
 }
 
 .button {
@@ -18,4 +20,6 @@ img {
     border-radius: 15px;
     width: 150px;
     display: inline-block;
+    text-decoration: none;
+    color: #2e2e2e;
 }
