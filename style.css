@@ -5,6 +5,8 @@ body {
 
 img {
     width: 100%;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
 }
 
 .card {
@@ -13,6 +15,8 @@ img {
     width: 18%;
     text-align: center;
     display: inline-block;
+    border: 2px solid black;
+    border-radius: 20px;
 }
 
 .button {
@@ -22,4 +26,5 @@ img {
     display: inline-block;
     text-decoration: none;
     color: #2e2e2e;
+    font-size: 18px;
 }
